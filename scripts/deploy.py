@@ -13,6 +13,8 @@ def get_account():
     else:
         return accounts.add(config["wallets"]["from_keys"])
 
+
+
 def deploy_simple_storage():
     # deployer_account = accounts[0]
     # deployer_account =accounts.load('deployer_address')
