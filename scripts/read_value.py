@@ -8,3 +8,6 @@ def read_contract():
 
 def main():
     read_contract()
+
+
+    
